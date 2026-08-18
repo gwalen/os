@@ -11,10 +11,10 @@
 - Anchor
   - [Issue #4481: Anchor deploy getting stuck in 1.0.x](https://github.com/otter-sec/anchor/issues/4481)
 
-## Taking part in discussing SIMD design specification
+## Participating in SIMD design discussions
 
   - [SIMD-0553: Resource and Inclusion Fee](https://github.com/solana-foundation/solana-improvement-documents/pull/553)
 
-## Participating in SIMD design discussions
+## My Open source projects    
 
 - [ZK-shielded-pool: umbrella project](https://github.com/gwalen/zk-shielded-pool)
