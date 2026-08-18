@@ -1,4 +1,4 @@
-# Open source contributions
+## Open source contributions
 
 - Anza (solana-sdk) 
   - [Issue #858: [poseidon] Implicitly links std on the Solana target](https://github.com/anza-xyz/solana-sdk/issues/858)
@@ -11,9 +11,10 @@
 - Anchor
   - [Issue #4481: Anchor deploy getting stuck in 1.0.x](https://github.com/otter-sec/anchor/issues/4481)
 
- Taking part in SIMD design specification:
+## Taking part in discussing SIMD design specification
+
   - [SIMD-0553: Resource and Inclusion Fee](https://github.com/solana-foundation/solana-improvement-documents/pull/553)
 
-# My Open source projects    
+## Participating in SIMD design discussions
 
 - [ZK-shielded-pool: umbrella project](https://github.com/gwalen/zk-shielded-pool)
