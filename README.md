@@ -5,6 +5,7 @@
   - [PR for #858: [poseidon] Use no-std when target_os = "solana" or target_arch = "bpf"](https://github.com/anza-xyz/solana-sdk/pull/857)
 - Quasar
   - [Issue #502: Quasar’s #[event] does not accept array types [u8; N]](https://github.com/blueshift-gg/quasar/issues/502)
+  - [Issue #510: #[event] fails to compile when the struct has padding (bool/u8/u16/u32 next to u64)](https://github.com/blueshift-gg/quasar/issues/510)
   - [PR for #502: feat(derive): accept [u8; N] as event fields](https://github.com/blueshift-gg/quasar/pull/509)
 - Surfpool
   - [Issue #334: Add support for loading a program binary to a given address without a keypair](https://github.com/solana-foundation/surfpool/issues/334)
