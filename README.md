@@ -12,8 +12,6 @@
   - [Issue #250: V0 Transactions - Unable to Retrieve Transaction Details](https://github.com/solana-foundation/surfpool/issues/250)
 - AnchorV1
   - [Issue #4481: Anchor deploy getting stuck in 1.0.x](https://github.com/otter-sec/anchor/issues/4481)
-- AnchorV2
-  - [Issue #4969: cargo build from anchor-next branch fails on macOS: lto = true breaks linking](https://github.com/otter-sec/anchor/issues/4969)
 
 ## Participating in SIMD design discussions
 
