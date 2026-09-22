@@ -10,8 +10,12 @@
 - Surfpool
   - [Issue #334: Add support for loading a program binary to a given address without a keypair](https://github.com/solana-foundation/surfpool/issues/334)
   - [Issue #250: V0 Transactions - Unable to Retrieve Transaction Details](https://github.com/solana-foundation/surfpool/issues/250)
-- AnchorV1
+- Anchor V1
   - [Issue #4481: Anchor deploy getting stuck in 1.0.x](https://github.com/otter-sec/anchor/issues/4481)
+- Anchor V2  
+  - [Issue #5067: Overprotective ConstraintDuplicateMutableAccount (2040) ](https://github.com/otter-sec/anchor/issues/5067)
+  - [Issue #5077: wincode's SchemaRead leaks into user code (AnchorDeserialize is only a derive macro) ](https://github.com/otter-sec/anchor/issues/5077)
+  - [PR for #5077: restore AnchorDeserialize/AnchorSerialize traits so wincode's SchemaRead stops leaking into user code](https://github.com/otter-sec/anchor/pull/5078)
 
 ## Participating in SIMD design discussions
 
