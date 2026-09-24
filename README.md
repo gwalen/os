@@ -20,6 +20,7 @@
 ## Participating in SIMD design discussions
 
   - [SIMD-0553: Resource and Inclusion Fee](https://github.com/solana-foundation/solana-improvement-documents/pull/553)
+  - [SIMD-0646: Disable legacy and v0 transaction formats](https://github.com/solana-foundation/solana-improvement-documents/pull/646)
 
 ## My Open source projects    
 
