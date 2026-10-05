@@ -14,6 +14,7 @@
   - [PR for #429: bump solana-address-lookup-table-interface to 3.2 for agave 4.3 compatibility](https://github.com/LiteSVM/litesvm/pull/429)
 - Anchor V1
   - [Issue #4481: Anchor deploy getting stuck in 1.0.x](https://github.com/otter-sec/anchor/issues/4481)
+  - [PR for #5142: ci: add anchor-client async test runs](https://github.com/otter-sec/anchor/pull/5142)
 - Anchor V2  
   - [Issue #5067: Overprotective ConstraintDuplicateMutableAccount (2040) ](https://github.com/otter-sec/anchor/issues/5067)
   - [Issue #5077: wincode's SchemaRead leaks into user code (AnchorDeserialize is only a derive macro) ](https://github.com/otter-sec/anchor/issues/5077)
