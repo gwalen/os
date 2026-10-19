@@ -23,6 +23,7 @@
   - [PR for #5123: bump Agave to 4.3 and litesvm to 0.17](https://github.com/otter-sec/anchor/pull/5123)
   - [PR for #5170: keep Pod wrapper types in IDL so declare_program! gets the right layout](https://github.com/otter-sec/anchor/pull/5170)
   - [PR for #5176: support pausable mint initialization constraints - #5176](https://github.com/otter-sec/anchor/pull/5176)
+  - [PR for #5187: Fix v2 projects from anchor init not building](https://github.com/otter-sec/anchor/pull/5187)
 
 
 ## Participating in SIMD design discussions
